@@ -6,17 +6,15 @@ A Python-based management system for Kumbh Mela, supporting ticket reservations,
 
 ## Table of Contents
 
-- [Kumbh Management System](#kumbh-management-system)
-  - [Table of Contents](#table-of-contents)
-  - [Features](#features)
-  - [Requirements](#requirements)
-  - [Database Schema](#database-schema)
-  - [MySQL Setup](#mysql-setup)
-  - [Project Setup](#project-setup)
-  - [How to Run](#how-to-run)
-  - [Module Details](#module-details)
-  - [Usage Guide](#usage-guide)
-  - [Troubleshooting](#troubleshooting)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Database Schema](#database-schema)
+- [MySQL Setup](#mysql-setup)
+- [Project Setup](#project-setup)
+- [How to Run](#how-to-run)
+- [Module Details](#module-details)
+- [Usage Guide](#usage-guide)
+- [Troubleshooting](#troubleshooting)
 
 ---
 
@@ -181,4 +179,4 @@ python main.py
 
 ---
 
-\*\*For any issues, please raise an issue or
+**For any issues, please raise an issue or contact the maintainer.**
